@@ -1,0 +1,22 @@
+body {
+  display: block;
+  margin-left: 650px;
+  background-color: aqua;
+}
+
+button {
+  border: none;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: green;
+  color: white;
+}
+button:hover {
+  cursor: pointer;
+  background-color: red;
+}
+
+h1,
+img {
+  margin-top: 50px;
+}
